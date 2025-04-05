@@ -1,0 +1,30 @@
+[submodule "alx-interview"]
+	path = alx-interview
+	url = https://github.com/bagoviggo/alx-interview
+[submodule "alx-frontend-for-fun"]
+	path = alx-frontend-for-fun
+	url = https://github.com/bagoviggo/alx-frontend-for-fun
+[submodule "alx-react"]
+	path = alx-react
+	url = https://github.com/bagoviggo/alx-react
+[submodule "alx-pre_course"]
+	path = alx-pre_course
+	url = https://github.com/bagoviggo/alx-pre_course
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = https://github.com/bagoviggo/alx-system_engineering-devops
+[submodule "alx-low_level_programming"]
+	path = alx-low_level_programming
+	url = https://github.com/bagoviggo/alx-low_level_programming
+[submodule "alx-higher_level_programming"]
+	path = alx-higher_level_programming
+	url = https://github.com/bagoviggo/alx-higher_level_programming
+[submodule "alx-zero_day"]
+	path = alx-zero_day
+	url = https://github.com/bagoviggo/alx-zero_day
+[submodule "alx-frontend-javascript"]
+	path = alx-frontend-javascript
+	url = https://github.com/bagoviggo/alx-frontend-javascript
+[submodule "alx-frontend"]
+	path = alx-frontend
+	url = https://github.com/bagoviggo/alx-frontend
